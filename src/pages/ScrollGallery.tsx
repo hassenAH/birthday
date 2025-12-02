@@ -91,8 +91,8 @@ const ScrollGalleryPage: React.FC = () => {
                     </Scroll>
                     <Scroll html>
                         <Overlay />
-                        <h1 style={{ position: 'absolute', top: '198.5vh', left: '0.5vw', fontSize: '40' }}>You mean every thing to me BouBa.</h1>
-                        <p></p>
+                        <h1 style={{ position: 'absolute', top: '198.5vh', left: '0.5vw', fontSize: '40' }}>You mean every thing to me BouBa. Nheeebeek </h1>
+
                     </Scroll>
                 </ScrollControls>
                 <Preload />
